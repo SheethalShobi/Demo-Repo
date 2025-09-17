@@ -1,0 +1,14 @@
+app:
+  name: DemoApp
+  version: 1.0
+  supported_languages:
+    - Java
+    - JavaScript
+    - C++
+    - SQL
+    - YAML
+
+features:
+  - code_summary
+  - folder_analysis
+  - pdf_export
